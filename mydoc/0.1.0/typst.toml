@@ -1,4 +1,4 @@
 [package]
-name = "mydoc"
+name = "simple_maketitle"
 version = "0.1.0"
 entrypoint = "lib.typ"
