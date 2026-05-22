@@ -1,0 +1,1 @@
+# typst_simple_doc_template
